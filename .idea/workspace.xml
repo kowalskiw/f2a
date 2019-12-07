@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68401aee-e564-4840-a620-94a61957b644" name="Default Changelist" comment="">
+      <change beforePath="D:/CR/_zadania/_konstrukcje/dlagita/.idea/workspace.xml" beforeDir="false" afterPath="D:/CR/_zadania/_konstrukcje/dlagita/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/CR/_zadania/_konstrukcje/dlagita" />
+  </component>
+  <component name="ProjectId" id="1UezG66VbtPk9XQYPAvukNH9qrl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mean.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mean" type="PythonConfigurationType" factoryName="Python">
+      <module name="bnd_temp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mean.py" />
+      <option name="PARAMETERS" value="Z:\2019\52_smyk\1123161259_smyk_sd06 smyk_sd06" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68401aee-e564-4840-a620-94a61957b644" name="Default Changelist" comment="" />
+      <created>1575731750001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575731750001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1749" y="-421" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575733387320">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state x="1749" y="-421" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575733387320" />
+    <state x="1986" y="-470" key="FileChooserDialogImpl" timestamp="1575731890810">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state x="1986" y="-470" key="FileChooserDialogImpl/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575731890810" />
+    <state width="1659" height="336" key="GridCell.Tab.0.bottom" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.0.center" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.center/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.0.left" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.left/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.0.right" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.right/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.1.bottom" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.1.center" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.center/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.1.left" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.left/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state width="1659" height="336" key="GridCell.Tab.1.right" timestamp="1575744585481">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.right/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575744585481" />
+    <state x="1707" y="-583" key="SettingsEditor" timestamp="1575731839203">
+      <screen x="1366" y="-729" width="1680" height="1010" />
+    </state>
+    <state x="1707" y="-583" key="SettingsEditor/0.0.1366.728/1366.-729.1680.1010@1366.-729.1680.1010" timestamp="1575731839203" />
+  </component>
+</project>
